@@ -1,0 +1,30 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: goldenrod;
+}
+
+#blue {
+    background-color: #1C3144;
+}
+
+#lighterBlue {
+    background-color: #596F62;
+}
+
+#teal {
+    background-color: #7EA16B;
+}
+
+#green {
+    background-color: #C3D898;
+}
+
+#burgundy {
+    background-color: #70161E;
+}
+
